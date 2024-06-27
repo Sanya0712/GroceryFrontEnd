@@ -3,4 +3,5 @@ such as vegetables, dairy, and fruits through an intuitive interface.
 Integrated simple features for easy navigation, item selection, and streamlined checkout, enhancing the overall user
 experience.
 
-<img width="1408" alt="Screenshot 2024-06-26 at 2 45 17 PM" src="https://github.com/Sanya0712/GroceryFrontEnd/assets/97089970/d2e3b535-62da-46f2-b539-e08c63219d21">
+
+<img width="1325" alt="Screenshot 2024-06-27 at 11 03 59 AM" src="https://github.com/Sanya0712/GroceryFrontEnd/assets/97089970/ebdc97a7-5094-4185-b4e4-fc3b9c43fb35">
